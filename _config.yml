@@ -20,6 +20,8 @@ paginate: 10
 # 
 # disqus:
 
+skin: midnight
+
 # Jekyll
 # ======
 exclude:
